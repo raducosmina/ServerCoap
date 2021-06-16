@@ -1,0 +1,209 @@
+INFO:root:Initializing class Broker
+INFO:root:
+INFO:root:CONVERT // 200 OK
+INFO:root:Initializing class Broker
+INFO:root:
+INFO:root:GET // 200 OK
+INFO:root:Initializing class Broker
+INFO:root:
+INFO:root:POST // 2.04 CHANGED
+INFO:root:Initializing class Broker
+INFO:root:
+INFO:root:POST // 2.01 CREATED
+INFO:root:Initializing class Broker
+INFO:root:
+INFO:root:CONVERT // 200 OK
+INFO:root:Initializing class Broker
+INFO:root:
+INFO:root:Initializing class Broker
+INFO:root:0.0 Empty Method // 200 OK
+INFO:root:
+INFO:root:Initializing class Broker
+INFO:root:
+INFO:root:GET // 200 OK
+INFO:root:Initializing class Broker
+INFO:root:Initializing class Broker
+INFO:root:
+INFO:root:GET // 200 OK
+INFO:root:Initializing class Broker
+INFO:root:
+INFO:root:GET // 200 OK
+INFO:root:Initializing class Broker
+INFO:root:
+INFO:root:GET // 200 OK
+INFO:root:Initializing class Broker
+INFO:root:pachet de la client
+INFO:root:<Message_Header.Message_Header object at 0x03BEE4A8>
+INFO:root: 
+INFO:root:
+INFO:root:POST // 2.04 CHANGED
+INFO:root:Initializing class Broker
+INFO:root:pachet de la client
+INFO:root:<Message_Header.Message_Header object at 0x0336E4A8>
+INFO:root: 
+INFO:root:
+INFO:root:GET // 200 OK
+INFO:root:Initializing class Broker
+INFO:root:pachet de la client
+INFO:root:<Message_Header.Message_Header object at 0x0325E4A8>
+INFO:root: 
+INFO:root:
+INFO:root:GET // 200 OK
+INFO:root:pachet de la client
+INFO:root:<Message_Header.Message_Header object at 0x0325E478>
+INFO:root: 
+INFO:root:
+INFO:root:GET // 200 OK
+INFO:root:pachet de la client
+INFO:root:<Message_Header.Message_Header object at 0x0325E5C8>
+INFO:root: 
+INFO:root:
+INFO:root:GET // 200 OK
+INFO:root:Initializing class Broker
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/1/6191/148/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:GET // 200 OK
+INFO:root:Initializing class Broker
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/1/12495/119/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:GET // 200 OK
+INFO:root:Initializing class Broker
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/1/1266/72/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:GET // 200 OK
+INFO:root:Initializing class Broker
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/1/23414/131/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:GET // 200 OK
+INFO:root:Initializing class Broker
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/6/42632/244/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:CONVERT // 200 OK
+INFO:root:Initializing class Broker
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/2/15553/228/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:POST // 2.04 CHANGED
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/2/12815/216/255gura+humorului
+INFO:root: 
+INFO:root:
+INFO:root:POST // 2.01 CREATED
+INFO:root:Initializing class Broker
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/2/63340/55/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:POST // 2.04 CHANGED
+INFO:root:Initializing class Broker
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/1/16308/164/255bacau
+INFO:root: 
+INFO:root:
+INFO:root:GET // 200 OK
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/2/32351/182/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:POST // 2.04 CHANGED
+INFO:root:Initializing class Broker
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/2/43613/82/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:POST // 2.04 CHANGED
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/2/32709/139/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:POST // 2.04 CHANGED
+INFO:root:Initializing class Broker
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/2/16605/37/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:POST // 2.04 CHANGED
+INFO:root:Initializing class Broker
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/2/22861/226/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:POST // 2.04 CHANGED
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/1/14125/110/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:GET // 200 OK
+INFO:root:Initializing class Broker
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/2/43686/98/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:POST // 2.04 CHANGED
+INFO:root:Initializing class Broker
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/1/44910/43/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:GET // 200 OK
+INFO:root:Initializing class Broker
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/2/7305/20/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:POST // 2.04 CHANGED
+INFO:root:Initializing class Broker
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/2/60306/39/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:POST // 2.04 CHANGED
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/2/37654/228/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:POST // 2.04 CHANGED
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/0/1/0/2/10957/158/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:POST // 2.04 CHANGED
+INFO:root:data_decode from client TYPE/CON/CLASS/CODE/MID/TOKEN/ 
+INFO:root:1/1/1/0/2/44179/122/255iasi
+INFO:root: 
+INFO:root:
+INFO:root:POST // 2.04 CHANGED
+INFO:root:Initializing class Broker
+INFO:root:Initializing class Broker
+INFO:root:Initializing class Broker
+INFO:root:Initializing class Broker
+INFO:root:Initializing class Broker
+INFO:root:Initializing class Broker
+INFO:root:Initializing class Broker
+INFO:root:Initializing class Broker
+INFO:root:Initializing class Broker
+INFO:root:Initializing class Broker
+INFO:root:Initializing class Broker
+INFO:root:Initializing class Broker
+INFO:root:Initializing class Broker
+INFO:root:data_decode from client VERSION/TYPE/CON/CLASS/CODE/MID/TOKEN/PAYLOAD 
+INFO:root:1/0/1/0/1/26045/215/255Iasi
+INFO:root: 
+INFO:root:
+INFO:root:GET // 200 OK
+INFO:root:data_decode from client VERSION/TYPE/CON/CLASS/CODE/MID/TOKEN/PAYLOAD 
+INFO:root:1/1/1/0/2/17910/109/255arad
+INFO:root: 
+INFO:root:
+INFO:root:POST // 2.01 CREATED

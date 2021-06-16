@@ -1,0 +1,7 @@
+vaslui:2.45
+ iasi:0.75
+ pascani:1.64
+ london:9.01
+  timisoara:-1.61
+    gura+humorului:-0.04
+                  arad:26.08
